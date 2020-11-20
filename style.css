@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+}
+
+.cont {
+  height: 100vh;
+  background-color: lightsalmon;
+  display: grid;
+  place-items: center;
+}
+
+.w {
+  font-family: sans-serif;
+
+  display: grid;
+  place-items: center;
+  max-width: 400px;
+  margin: auto;
+  background-color: lightsalmon;
+  color: whitesmoke;
+}
+/* some comment*/
